@@ -1,0 +1,17 @@
+PCA Analysis Summary
+==================
+
+Original features: 784
+PCA features: 331
+Variance explained: 0.950
+Compression ratio: 2.4x
+
+Classifier Results:
+----------------------------------------
+Random Forest       : 0.9365 (93.65%)
+SVM (Linear)        : 0.9406 (94.06%)
+SVM (RBF)           : 0.9686 (96.86%)
+K-Nearest Neighbors : 0.9503 (95.03%)
+
+Best Classifier: SVM (RBF)
+Best Accuracy: 0.9686
